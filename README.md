@@ -12,4 +12,4 @@ shutdown -r -t 0 now
 * Przegląd zakładek i programów.
 * Przegląd sklepu z wtyczkami.
 * Zainstalowanie wtyczki Barocde i Data injection.
-* Instrukcja do wykonania zadania.
+* Instrukcja do wykonania zadania. Przykładowy plik https://piojas.pl/wp-content/uploads/2024/03/lok.csv
