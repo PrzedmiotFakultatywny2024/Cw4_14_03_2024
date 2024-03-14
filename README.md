@@ -1,7 +1,7 @@
 # Cw4_14_03_2024
 
 * Uruchomienie maszyn.
-* Hasła - na innym repozytorium
+* Hasła - na innym repozytorium https://github.com/PrzedmiotFakultatywny2024/GLIP-2024-UWMOlsztyn
 * Higiena pracy, aktualizacja, wyłączanie
 
 ```
